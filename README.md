@@ -1,5 +1,10 @@
 # GAEX , Governing AI at Execution
 
+[![tests](https://github.com/BridgeCoreAI/gaex/actions/workflows/tests.yml/badge.svg)](https://github.com/BridgeCoreAI/gaex/actions/workflows/tests.yml)
+
+Recorded runs with commit bindings: see the [Actions tab](https://github.com/BridgeCoreAI/gaex/actions/workflows/tests.yml). Evidence is generated per run; the ledger's integrity can be verified with `verify_integrity`.
+
+
 **A public governance-engineering reference demonstrator by BridgeCore AI.**
 
 ## What this is
